@@ -15,4 +15,4 @@ jobs:
             username: Marcin
             password: Student1234#*
             protocol: ftp
-            server-dir: /var/www/html/Marcin_Sz
+            server-dir: /var/www/html/Marcin_Sz/
