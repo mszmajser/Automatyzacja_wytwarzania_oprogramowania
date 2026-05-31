@@ -12,7 +12,7 @@ jobs:
            uses: SamKirkland/FTP-Deploy-Action@v4.4.0
            with:
             server: 20.215.35.36
-            username: Marcin
+            username: student
             password: Student1234#*
             protocol: ftp
             server-dir: /var/www/html/Marcin_Sz/
